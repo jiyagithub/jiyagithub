@@ -27,14 +27,14 @@
 
 ---
 
-### About me
+<img src="https://img.shields.io/badge/%20ABOUT%20ME-D4537E?style=for-the-badge&logoColor=white" />
 
 <p align="justify"><sub>Final-year B.Tech student in Electronics and Computer Engineering at SRM Institute of Science and Technology, Kattankulathur, with hands-on experience in data analytics, full-stack web development, and machine learning. Proficient in Python, SQL, Power BI, Tableau, and Excel for data analysis, data visualization, and generating actionable business insights. Experienced in building and deploying responsive web applications using HTML, CSS, JavaScript, and React, with exposure to REST APIs and database management. Familiar with cloud computing concepts, AI/ML model development, and business intelligence reporting across multiple internship engagements. Known for strong problem-solving skills, attention to detail, effective time management, and a proactive, results-driven approach to delivering high-impact solutions.</sub></p>
 
 ---
 
 
-### Connect with me
+<img src="https://img.shields.io/badge/%20CONNECT%20WITH%20ME-D4537E?style=for-the-badge&logoColor=white" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jiya0106/"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=993556" /></a>
