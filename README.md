@@ -1,8 +1,12 @@
 <img src="./gitmainimg.gif" width="100%" />
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5500&lines=Hi+There!+👋;+I'm+Jiya!+😄" />
-</h1>
-<h3 align="center">Data Analytics & Full-Stack Developer | B.Tech ECE @ SRM IST</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Jiya!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF91A4&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Full-Stack+Developer+%7C+B.Tech+ECE+%40+SRM+IST" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
