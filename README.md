@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF91A4&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Full-Stack+Developer+%7C+B.Tech+ECE+%40+SRM+IST" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF91A4&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Full-Stack+Developer+%7C+B.Tech+ECE+%40+SRM+IST" />
 </p>
 
 ---
